@@ -1,0 +1,37 @@
+h1{
+font-size: 100px;
+  font-family: arial;
+  position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+  
+}
+.containerHead {
+  height: 200px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+a {
+  font-size: 25px;
+  font-family: arial;
+  text-decoration: none;
+  color: green;
+}
+.flex-container {
+  width: 100%;
+  display:  flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

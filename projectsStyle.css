@@ -1,0 +1,79 @@
+h1{
+font-size: 100px;
+  font-family: arial;
+  position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+  
+}
+.containerHead {
+  height: 115px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+a {
+  font-size: 25px;
+  font-family: arial;
+  text-decoration: none;
+  color: green;
+}
+.QC img {
+  width: 20%;
+}
+.QC {
+  flex: 1 1 0;
+}
+.P3 img {
+  width: 20%;
+}
+.P3 {
+  flex: 1 1 0;
+}
+.LS {
+  flex: 1 1 0;
+}
+
+.P4 img {
+  width: 20%;
+}
+.P4 {
+  flex: 1 1 0;
+}
+.P5 img {
+  width: 20%;
+}
+.P5 {
+  flex: 1 1 0;
+}
+.P6 img {
+  width: 20%;
+}
+.P6 {
+  flex: 1 1 0;
+}
+.P7 img {
+  width: 20%;
+}
+.P7 {
+  flex: 1 1 0;
+}
+.LS img {
+  width: 50%;
+}
+.flex-container {
+  width: 100%;
+  display:  flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+}
